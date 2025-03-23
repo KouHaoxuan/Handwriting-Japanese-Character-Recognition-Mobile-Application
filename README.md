@@ -63,7 +63,7 @@ pip install TensorFlow Matplotlib
  
 
 ## Results
-![Training Process Visualization](Loss and Accuracy.png)
+![Training Process Visualization](LossandAccuracy.png)
 ![Recognition Result](Result.png)
 
 
