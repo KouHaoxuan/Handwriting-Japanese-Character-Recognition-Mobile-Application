@@ -63,12 +63,8 @@ pip install TensorFlow Matplotlib
  
 
 ## Results
-![Data Distribution](Diabetes/distribution_after.png)
-![Feature Heatpmap](Diabetes/Heatmap.png)
-![Feature Comparison](Diabetes/feature comparison.png)
-![ROC Curve](Diabetes/ROC.png)
-![User Interface](user.png)
-
+![Training Process Visualization](Loss and Accuracy.png)
+![Recognition Result](Result.png)
 
 
 ### Reference:
